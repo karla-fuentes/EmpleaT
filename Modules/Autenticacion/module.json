@@ -1,0 +1,13 @@
+{
+    "name": "Autenticacion",
+    "alias": "autenticacion",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Autenticacion\\Providers\\AutenticacionServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
